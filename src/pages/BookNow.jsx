@@ -1,4 +1,4 @@
-import Book from "../components/book/book";
+import Book from "../components/book/Book";
 
 function BookNow() {
   return (
